@@ -8,7 +8,7 @@
 <img src="data/qsm_2016_recon_challenge/output/spinet_qsm_output_image.png" alt="spinet-QSM architecture" width=100% height=100%>
 
 
-<h2>SpiNet-QSM on complete training data</h2>
+<h2>MSFF-QSMNet reconstruction on complete training data</h2>
 <p>
 QSM maps reconstructed on complete training data were shown in the first row, and residual error maps in the second row.
 </p>
