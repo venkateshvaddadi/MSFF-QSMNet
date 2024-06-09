@@ -17,7 +17,7 @@
 
 
 <h2>MSFF-QSMNet reconstruction on complete training data</h2>
-<p>
+<p> 
 QSM maps reconstructed on complete training data were shown in the first row, and residual error maps in the second row.
 </p>
 
