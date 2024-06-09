@@ -1,1 +1,1 @@
-<img src='images/MSFF_QSMNet.png'>
+<img src='images/MSFF-QSMNet.png'>
