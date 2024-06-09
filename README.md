@@ -25,7 +25,7 @@ QSM maps reconstructed on complete training data were shown in the first row, an
 # How to run the code
 First, ensure that PyTorch 1.10 or higher version is installed and working with GPU. Second, just clone or download this reporsitory. The SpiNet_QSM_demo_run.py file should run without any changes in the code. 
 
-We can run from the command prompt: 
+We can run from the command for the training the MSFF-QSMNet: 
 
 **`python train.py --model=MSFF_QSMNet --name=demo1 --saveroot=./savedModels --lr=0.001 --batch-size=8 --epoch=50 --ngpu=2`**.
 
