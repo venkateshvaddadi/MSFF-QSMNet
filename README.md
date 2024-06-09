@@ -35,6 +35,8 @@ We can check the quality of the Spinet-QSM output by running the **`metrics_eval
 # Files description
 **`train.py:`** This file contains the code for the training MSFF-QSMNet with various settings. 
 
+**`MSFF_QSMNet_Model.py:`** This file contains the pytorch implementation code for the proposed MSFF-QSMNet model with various settings. 
+
 **`loss.py:`** This file contains the code for the loss function. the $l_1$-norm of the **voxel-wise difference** (L1 loss term) and **gradient-wise difference** (edge loss) was utilized in a weighted manner.
 
 **`utils.py:`** This file contains the code for many supporting functions for the previous Python code files.
