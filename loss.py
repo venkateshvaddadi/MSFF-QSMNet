@@ -74,7 +74,7 @@ def SSIM_loss_on_Minibatch(prediction, taget):
     total_ssim_loss=total_ssim_loss/batch_size;
     return total_ssim_loss
 
-
+# this is the loss function we used in the proposed network training...
 def total_loss_l1_with_model_loss(chi, y, b, d, m, sobel,sm=0,ssd=1,pm=0,psd=1):    
     
     # chi = predicetd susc
@@ -143,7 +143,7 @@ def total_loss_l1_with_model_loss(chi, y, b, d, m, sobel,sm=0,ssd=1,pm=0,psd=1):
     
     loss_model = w1 * loss_model(b, b_hat)
 
-    loss = loss_l1 +  loss_grad+loss_model #+ loss_ssim
+    loss = loss_l1 +  loss_grad+loss_model + loss_ssim
 
     return loss
 
