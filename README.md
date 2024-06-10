@@ -50,7 +50,7 @@ We can check the quality of the MSFF-QSMNet output by running the **`metrics_eva
 **`utils.py:`** This file contains the code for many supporting functions for the previous Python code files.
 
 
-**`savedModels:`** This directory contain's the learned PyTorch 1.10 model parameters. 
+**`savedModels:`** This directory contain's the learned PyTorch 2.10 model parameters. 
 
 **`train.py:`** This file contains the code for the training MSFF-QSMNet with various settings. 
 
