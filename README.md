@@ -16,13 +16,7 @@
 <img src="data/qsm_2016_recon_challenge/output/MSFF_QSMNet_output_image.png" alt="spinet-QSM architecture" width=100% height=100%>
 
 
-<h2>MSFF-QSMNet reconstruction on complete training data</h2>
-<p> 
-QSM maps reconstructed on complete training data were shown in the first row, and residual error maps in the second row.
-</p>
-
-  <img src="images/spinet_qsm_on_complete_training_data.png" alt="spinet-QSM architecture" width=100% height=100%>
-# How to run the code
+<h2> How to run the code</h2>
 First, ensure that PyTorch 1.10 or higher version is installed and working with GPU. Second, just clone or download this reporsitory. The SpiNet_QSM_demo_run.py file should run without any changes in the code. 
 
 We can run from the command for the training the MSFF-QSMNet: 
