@@ -11,7 +11,7 @@ QSM provides information about the underlying magnetic susceptibility distributi
   
 The mathematical relation for the QSM reconstruction is:
 <center>
-<img src="images/required_equations/qsm_problem_relation.png" alt="spinet-QSM architecture" width=75% height=75%>
+<img src="images/qsm_problem_relation.png" alt="spinet-QSM architecture" width=75% height=75%>
 </center>
 For solving QSM problem, it is required peform dipole deconvolution with local field. It is very cruical step in the QSM solving. Unfortunately, this it is an illposed problem.
 <img src="images/relation between local filed and qsm.PNG" alt="spinet-QSM architecture" width=100% height=100%>
