@@ -13,7 +13,7 @@
 
 <h2>Sample QSM reconstruction on QSM-2016 challenge data</h2>  
   
-<img src="data/qsm_2016_recon_challenge/output/spinet_qsm_output_image.png" alt="spinet-QSM architecture" width=100% height=100%>
+<img src="data/qsm_2016_recon_challenge/output/MSFF_QSMNet_output_image.png" alt="spinet-QSM architecture" width=100% height=100%>
 
 
 <h2>MSFF-QSMNet reconstruction on complete training data</h2>
