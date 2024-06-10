@@ -74,7 +74,10 @@ dw.eval()
 dw = dw.cuda(device_id)
 print("model loaded")
 
+#%%
 
+# save_path = "savedModels/MSFF_QSMNet/ckpt.t7"
+# torch.save({'net': dw.state_dict()}, save_path)
 
 
 
@@ -137,9 +140,9 @@ def crop_data(result_pad, N_dif):
 with torch.no_grad():
 
 
-    phs=scipy.io.loadmat(raw_data_path+'/phs1.mat')['phs_tissue']
-    sus=scipy.io.loadmat(raw_data_path+'/cos1.mat')['cos']
-    msk=scipy.io.loadmat(raw_data_path+'/msk1.mat')['msk']
+    phs=scipy.io.loadmat(input_dir+'/phs1.mat')['phs_tissue']
+    sus=scipy.io.loadmat(input_dir+'/cos1.mat')['cos']
+    msk=scipy.io.loadmat(input_dir+'/msk1.mat')['msk']
 
     print(phs.shape)
     print(msk.shape)
