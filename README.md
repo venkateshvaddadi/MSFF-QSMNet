@@ -27,7 +27,7 @@ We can run from the command for the training the MSFF-QSMNet:
 We can check the quality of the MSFF-QSMNet output by running the **`metrics_evaluation.m`**. It calculates the **`SSIM, pSNR, RMSE, HFEN`**.
 # Dependencies
 <li> Python  </li>  
-<li> PyTorch 1.10 </li>
+<li> PyTorch 2.10 </li>
 <li> MATLAB R2022b </li>
   
 # Files description
