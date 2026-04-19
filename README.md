@@ -78,11 +78,7 @@ The QSM reconstruction challenge 2.0 (RC-2) dataset is publicly available at
 <a href="https://doi.org/10.5281/zenodo.4559541">https://doi.org/10.5281/zenodo.4559541</a> [3].
 </p>
 
-<p>
-[1] Lai et al., LPCNN dataset<br>
-[2] Langkammer et al., QSM Reconstruction Challenge 2016<br>
-[3] Marques et al., QSM Reconstruction Challenge 2.0
-</p>
+
 
 
 # Contact
