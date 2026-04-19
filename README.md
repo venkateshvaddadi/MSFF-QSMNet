@@ -60,7 +60,7 @@ We can check the quality of the MSFF-QSMNet output by running the **`metrics_eva
 <h2>Data Availability</h2>
 
 <p>
-The SNU dataset was made available to the authors by Prof. Lee (e-mail: jonghoyi@snu.ac.kr) from Seoul National University.
+The SNU dataset was made available to the authors by Prof. Lee from Seoul National University.
 </p>
 
 <p>
