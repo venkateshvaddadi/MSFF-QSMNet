@@ -56,6 +56,35 @@ We can check the quality of the MSFF-QSMNet output by running the **`metrics_eva
 
 **`test_on_qsm_2016_challange_data.py:`** This file contains the code for the testing MSFF-QSMNet on the <a href="http://www.neuroimaging.at/pages/qsm.php">QSM-2016 challenge data</a>. 
 
+
+<h2>Data Availability</h2>
+
+<p>
+The SNU dataset was made available to the authors by Prof. Lee (e-mail: jonghoyi@snu.ac.kr) from Seoul National University.
+</p>
+
+<p>
+The LPCNN dataset is publicly available at 
+<a href="https://github.com/Sulam-Group/LPCNN">https://github.com/Sulam-Group/LPCNN</a> [1].
+</p>
+
+<p>
+The QSM 2016 reconstruction challenge (RC-1) dataset is publicly available at 
+<a href="http://www.neuroimaging.at/pages/qsm.php">http://www.neuroimaging.at/pages/qsm.php</a> [2].
+</p>
+
+<p>
+The QSM reconstruction challenge 2.0 (RC-2) dataset is publicly available at 
+<a href="https://doi.org/10.5281/zenodo.4559541">https://doi.org/10.5281/zenodo.4559541</a> [3].
+</p>
+
+<p>
+[1] Lai et al., LPCNN dataset<br>
+[2] Langkammer et al., QSM Reconstruction Challenge 2016<br>
+[3] Marques et al., QSM Reconstruction Challenge 2.0
+</p>
+
+
 # Contact
 Dr. Phaneendra K. Yalavarthy
 
